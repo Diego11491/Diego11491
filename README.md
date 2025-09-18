@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Alberto Ventura Villaca</h1>
-<h3 align="center">**Ing. de Sistemas (8.º ciclo, UTP) · Excel avanzado · SQL intermedio · Power BI · Documentación de procesos**</h3>
+<h3 align="center"> Ing. de Sistemas (8.º ciclo, UTP) · Excel avanzado · SQL intermedio · Power BI · Documentación de procesos </h3>
 
 - 🌱 Actualmente enfocado en **soporte operativo**, **mapeo de procesos** (BPMN) y **reportería** (Excel/Power BI).
 
