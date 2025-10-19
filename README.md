@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente enfocado en **soporte operativo**, **mapeo de procesos** (BPMN) y **reportería** (Excel/Power BI).
 
-- 💬 Experiencia en **control de calidad de datos** y **documentación** para equipos globales (iMerit/Fractal – Proyecto Meta).
+- 💬 Experiencia en **control de calidad de datos** y **documentación** para equipos globales (iMerit).
 
 - ⚡ Uso **IA a nivel usuario** para acelerar resúmenes, minutas y A/B testing de textos.
 
